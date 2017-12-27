@@ -8,9 +8,7 @@ CommonSerial Copyright (C)  2017 @KondeU
 
 最新发布日期：2017年12月27日
 
-开发者：	女孩不哭（http://blog.twofei.com/566/）
-
-​		KondeU（http://github.com/KondeU）
+开发者：	女孩不哭、KondeU
 
 问题反馈与联系：https://github.com/KondeU/CommonSerialRelease
 
@@ -87,15 +85,15 @@ CommonSerial Copyright (C)  2017 @KondeU
 
   支持的输入类型有：
 
-  BYTE(1byte)、
+  ​	BYTE(1byte)、
 
-  WORD(2bytes)、
+  ​	WORD(2bytes)、
 
-  DWORD(4bytes)、
+  ​	DWORD(4bytes)、
 
-  FLOAT(4bytes)、
+  ​	FLOAT(4bytes)、
 
-  DOUBLE(8bytes)。
+  ​	DOUBLE(8bytes)。
 
 
 - 接收数据协议（下位机编程协议）：
