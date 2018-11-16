@@ -14,6 +14,10 @@ CommonSerial Copyright (C)  2017 @KondeU
 
 第二版本（2.01）支持波形绘制的功能，可以将串口助手用作示波器、PID调参器使用。
 
+首版本开发者：女孩不哭
+
+首版来源链接：https://blog.twofei.com/projects/common.html
+
 ## 使用预览
 
 主窗口：
