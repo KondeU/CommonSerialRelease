@@ -2,21 +2,16 @@
 
 ## 版本信息
 
-CommonSerial Copyright (C)  2017 @KondeU
+CommonSerial Copyright (C)  2017-2021 @KondeU
 
-当前最新版本：2.01_Release
+历史发布记录：
+2.01_Release  2017年12月27日
+2.02_Release  2021年08月27日
 
-最新发布日期：2017年12月27日
+v2主要增添支持波形绘制的功能，可以将串口助手扩展用作示波器、PID调参器使用。
+目前已开源：<https://github.com/KondeU/CommonSerial>
 
-开发者：	女孩不哭、KondeU
-
-问题反馈与联系：https://github.com/KondeU/CommonSerialRelease
-
-第二版本（2.01）支持波形绘制的功能，可以将串口助手用作示波器、PID调参器使用。
-
-首版本开发者：女孩不哭
-
-首版来源链接：https://blog.twofei.com/projects/common.html
+v1来自于开源项目，已获得授权：<https://github.com/movsb/common>
 
 ## 使用预览
 
@@ -34,7 +29,7 @@ CommonSerial Copyright (C)  2017 @KondeU
 
 因程序涉及串口硬件操作，有可能会被杀毒软件误报威胁，请放心添加信任使用。
 
-本应用程序为免费软件，不收取任何费用，在使用过程中如有疑问或报告异常，可发邮件至用户反馈邮箱或在上述问题反馈与联系网站的Issues中发布。
+本应用程序为免费软件，不收取任何费用，在使用过程中如有疑问或报告异常，可直接提issue。
 
 ### 软件说明
 
@@ -75,7 +70,7 @@ CommonSerial Copyright (C)  2017 @KondeU
 - 若修改发送数据, 自动发送将被取消。
 - 16进制发送格式为：2个16进制位间需加1个空格。
 
-### （第2版本）波形绘制功能的使用
+### (v2.01-v2.02)波形绘制功能的使用
 
 - 鼠标在窗口中移动可以在鼠标监测对话框中看到当前的位置状态。
 - CTRL+鼠标左键可以锁定/解锁鼠标的选中。
